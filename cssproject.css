@@ -1,0 +1,167 @@
+
+
+#container{
+    background-color: rgb(245, 245, 219);
+    margin-left: auto;
+    margin-right: auto;
+    width:1500;
+    
+}
+#title{
+    font-family: Stencil Std, Oldtown,Blippo,fantasy;
+    text-align: center;
+
+}
+
+
+
+
+#header{
+    width: 981px;
+    height:552px;
+    background-image: url(https://wallpapercave.com/wp/wp3988119.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    margin:auto;
+    background-color: antiquewhite;
+}
+
+
+#Quote-1{
+    height: 75px;
+}
+
+p span{
+    background-color: white;
+    position: relative;
+    padding: 12px;
+    }
+
+
+#text{
+    text-align: center;
+    font-family:'Pacifico', cursive;
+    font-size:30px;
+    font-weight: bold;
+    font-variant: normal;
+}
+
+.giffy{
+    float:left;
+    width:33%;
+    padding:1px;
+
+}
+
+.gif::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+#content {
+    width: 1100px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color:white;
+}
+
+#main-content {
+    height: 700px;
+    width: 800px;
+    background-color: white;
+    position: relative;
+    top: 25px;
+    left: 10px;
+    font-family: 'Dosis' , sans-serif;
+}
+
+.date1{
+    border-top: 1px solid #ccc;
+    margin-top: 0;
+}
+.date{
+    width: 100px;
+    height:7px;
+    text-align: center;
+    line-height: 26px;
+    float: left;
+    font-size: 14px;
+    border-top: 2px solid #ccc;
+    margin: -1px 0 0 0;
+    padding: 4px 5px 6px 0;
+    clear: left;
+    font-weight: bold;
+}
+.cont{
+    border-bottom: 1px solid #ccc;
+    width: 625px;
+    background: #f9f9f9;
+    float: left;
+    margin: 0;
+    padding: 8px 12px 8px 8px;
+    border-top: 1px solid #ccc;
+    clear: right;
+    font-size: 14px;
+}
+
+
+#side {
+    height: 700px;
+    width: 290px;
+    background-color: white;
+    float: right;
+    clear: both;
+    position: relative;
+    bottom:-700px;
+    top:-370px;
+}
+
+#second-image {
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: 7px;
+    float: right;
+    right: 18px;
+}
+.personal-info {
+    font-size: 90%;
+    font-family: 'Dosis' , sans-serif;
+    position: relative;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: white;
+}
+
+
+p{
+    top:20px;
+    bottom:20px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+ 
+h3{
+    top:20px;
+    bottom:20px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.th, .personal-info td {
+    vertical-align: top;
+    border: 0;
+    border-bottom: 1px solid #dddddd;
+    padding: 0.2em;
+}
+
+#quote {
+    text-align: center;
+    font-family:'Pacifico', cursive;
+    font-size:30px;
+    font-weight: bold;
+    font-variant: normal;
+}
